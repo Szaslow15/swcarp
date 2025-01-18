@@ -1,8 +1,8 @@
 avocado
-salt
+cinnamon
 lime juice
 garlic
 cumin
 cilantro
-tomato
+apple
 red onion
